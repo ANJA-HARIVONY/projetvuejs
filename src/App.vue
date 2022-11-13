@@ -59,7 +59,7 @@ import {ref} from "vue";
 }
 
 h2{
-  font-size: x-large;
+  font-size:35px;
   font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
