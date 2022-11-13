@@ -60,6 +60,7 @@ import {ref} from "vue";
 
 h2{
   font-size: x-large;
+  font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 </style>
