@@ -60,7 +60,11 @@ import {ref} from "vue";
 
 h2{
   font-size:35px;
-  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-family: Verdana, Tahoma, sans-serif, 'Times New Roman', Times, serif;
+
+}
+h3{
+  background-attachment: fixed;
 }
 
 </style>
